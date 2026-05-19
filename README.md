@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/no-sleep-in-dubai/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for No Sleep in Dubai](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-sleep-in-dubai/) |
+| **Get License** | [Music Rights & Licensing for No Sleep in Dubai](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-sleep-in-dubai/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Raatan nu main jagda haan with your eyes on me
+> Tere ishaareyan da sek karda crazy ni
+> Shehar di chuppi de vich feeling so deep
+> Main kalla turda haan you're all I need
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
