@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/no-sleep-in-dubai/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for No Sleep in Dubai](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-sleep-in-dubai/) |
+| **Get License** | [License this song: No Sleep in Dubai](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-sleep-in-dubai/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1689)
 
 ---
 
