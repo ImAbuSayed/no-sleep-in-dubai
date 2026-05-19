@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - No Sleep in Dubai
+
+This log tracks the cryptographic history and versioning for the song **No Sleep in Dubai** (no-sleep-in-dubai).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-19T22:49:07.007332 | `v1` | `92a61c016303fb7b545981a4189d047495a72bfc24b2dbf32e21b2d13d7f9ec3` | `afa86844a0d810626266e5e57178b56814a96793aaf6fe850ca335bf97b1288b` | `2026-05-19_no-sleep-in-dubai-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
